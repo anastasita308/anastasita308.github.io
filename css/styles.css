@@ -303,7 +303,8 @@ nav{
 }
 
 #footer .col.newsletter {
-  width: 50%;
+  width: 45%;
+  float: right;
 }
 
 #footer a {
